@@ -26,5 +26,6 @@ hs_err_pid*
 
 /.gitee/
 /.idea/
-/spring-boot-sample.iml
+/.idea/*.xml
+/*.iml
 
