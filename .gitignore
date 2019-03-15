@@ -26,6 +26,6 @@ hs_err_pid*
 
 /.gitee/
 /.idea/
-/.idea/*.xml
+/.idea/*
 /*.iml
 

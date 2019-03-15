@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>spring-boot-sample-mybatis</module>
+        <module>spring-boot-sample-web-jsp</module>
     </modules>
     <properties>
         <java.version>1.8</java.version>
